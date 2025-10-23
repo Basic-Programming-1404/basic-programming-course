@@ -1,6 +1,3 @@
-
-# **Q&A**
-
 ## ❓ Question 1
 
 > Question: _“What’s the difference between `int` and `float` in C++?”_

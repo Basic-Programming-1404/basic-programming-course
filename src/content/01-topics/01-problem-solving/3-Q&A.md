@@ -1,13 +1,10 @@
-
-# **Q&A**
-
 ## ❓ Question 1
 
 > Question: _“What’s the difference between `int` and `float` in C++?”_
 
 > [!info] **Answer**  
-`int` stores whole numbers without decimals, while `float` stores numbers with fractional parts.  
-For example:
+> `int` stores whole numbers without decimals, while `float` stores numbers with fractional parts.  
+> For example:
 > - `int x = 5;` 
 > - `float y = 5.25;`
    

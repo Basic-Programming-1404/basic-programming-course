@@ -24,7 +24,7 @@
 ## 🛠️ Workshop & Assignments
 
 - 💬 [Workshop Questions](./workshops)  
-- 🧮 [Assignments](01-Workshop.md)  
+- 🧮 [Assignments](01-topics/01-problem-solving/1-Workshop.md)  
 - ❓ [Q&A and Common Issues](./resources/qa.md)
 
 ---
