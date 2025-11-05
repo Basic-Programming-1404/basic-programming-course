@@ -25,11 +25,11 @@ jobs:
           node-version: "22"
 
       - name: Install dependencies
-        working-directory: src/quartz
+        working-directory: src/
         run: npm ci
 
       - name: Build Quartz
-        working-directory: src/quartz
+        working-directory: src/
         run: npx quartz build
 
       - name: Deploy to GitHub Pages
