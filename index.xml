@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>C++</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on C++</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>course-guide</title>
+    <link>https://quartz.jzhao.xyz/00-course-info/course-guide</link>
+    <guid>https://quartz.jzhao.xyz/00-course-info/course-guide</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>generative-ai-usage-guidelines</title>
+    <link>https://quartz.jzhao.xyz/00-course-info/generative-ai-usage-guidelines</link>
+    <guid>https://quartz.jzhao.xyz/00-course-info/generative-ai-usage-guidelines</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>references</title>
+    <link>https://quartz.jzhao.xyz/00-course-info/references</link>
+    <guid>https://quartz.jzhao.xyz/00-course-info/references</guid>
+    <description><![CDATA[ github.com/fanteastick/quartz-test github.com/bfahrenfort/quartz. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>syllabus</title>
+    <link>https://quartz.jzhao.xyz/00-course-info/syllabus</link>
+    <guid>https://quartz.jzhao.xyz/00-course-info/syllabus</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>0-Overview</title>
+    <link>https://quartz.jzhao.xyz/01-topics/01-problem-solving/0-Overview</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/01-problem-solving/0-Overview</guid>
+    <description><![CDATA[ 🧭 Topic: Basics of C++ &amp; Data Types Quick Overview This topic introduces how to compile and run C++ code, basic input/output, variables, built-in data types, and the math library. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>1-Workshop</title>
+    <link>https://quartz.jzhao.xyz/01-topics/01-problem-solving/1-Workshop</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/01-problem-solving/1-Workshop</guid>
+    <description><![CDATA[  Brief description This page lists the workshop questions for this topic and provides downloadable official solutions. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>2-Assignment</title>
+    <link>https://quartz.jzhao.xyz/01-topics/01-problem-solving/2-Assignment</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/01-problem-solving/2-Assignment</guid>
+    <description><![CDATA[  Brief description This page lists the assignment questions for this topic and provides downloadable official solutions. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>3-Q&amp;A</title>
+    <link>https://quartz.jzhao.xyz/01-topics/01-problem-solving/3-Q-and-A</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/01-problem-solving/3-Q-and-A</guid>
+    <description><![CDATA[ ❓ Question 1 Question: “What’s the difference between int and float in C++?” Answer int stores whole numbers without decimals, while float stores numbers with fractional parts. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>0-Overview</title>
+    <link>https://quartz.jzhao.xyz/01-topics/02-basics-and-data-types/0-Overview</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/02-basics-and-data-types/0-Overview</guid>
+    <description><![CDATA[ 🧭 Topic: Basics of C++ &amp; Data Types Quick Overview This topic introduces how to compile and run C++ code, basic input/output, variables, built-in data types, and the math library. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item><item>
+    <title>1-Workshop</title>
+    <link>https://quartz.jzhao.xyz/01-topics/02-basics-and-data-types/1-Workshop</link>
+    <guid>https://quartz.jzhao.xyz/01-topics/02-basics-and-data-types/1-Workshop</guid>
+    <description><![CDATA[  Brief description This page lists the workshop questions for this topic and provides downloadable official solutions. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 15:31:08 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
