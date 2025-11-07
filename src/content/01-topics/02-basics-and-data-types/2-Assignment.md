@@ -13,6 +13,16 @@
 
 ---
 
+| Concept        | Example Keywords              |
+| -------------- | ----------------------------- |
+| Input/Output   | `cin`, `cout`, `setprecision` |
+| Integer math   | `/`, `%`, precedence          |
+| Floating-point | rounding, precision           |
+| Math library   | `sqrt`, `pow`, `abs`          |
+
+
+---
+
 ## 📦 Download All Solutions
 
 - **All official solutions (zip):** [Download all official solutions](./workshops/01-basics-data-types/official-solutions.zip)

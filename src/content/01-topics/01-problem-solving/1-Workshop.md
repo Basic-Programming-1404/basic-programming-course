@@ -21,12 +21,12 @@
 
 ## 🧾 Official Questions & Solutions
 
-| Question # | Title / Short Description                                     | Question (Download)                                            | Official Solution (Download)                                     |
-|------------|---------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------|
-| Q1         | Simple I/O and variables — read two numbers and print the sum | [Download PDF](./workshops/01-q1-question.pdf)                 | [01-q1-solution.cpp](./workshops/01-q1-solution.cpp)             |
-| Q2         | Type conversion — integer division vs floating point         | [Download PDF](./workshops/01-q2-question.pdf)                 | [01-q2-solution.cpp](./workshops/01-q2-solution.cpp)             |
-| Q3         | Using `<cmath>` — compute and format results                  | [Download PDF](./workshops/01-q3-question.pdf)                 | [01-q3-solution.cpp](./workshops/01-q3-solution.cpp)             |
-| Q4         | Edge cases & input validation                                | [Download PDF](./workshops/01-q4-question.pdf)                 | [01-q4-solution.cpp](./workshops/01-q4-solution.cpp)             |
+| Question # | Title / Short Description                                     | Question (Download)                            | Official Solution (Download)                         |
+| ---------- | ------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| Q1         | Simple I/O and variables — read two numbers and print the sum | [Download PDF](./workshops/01-q1-question.pdf) | [01-q1-solution.cpp](./workshops/01-q1-solution.cpp) |
+| Q2         | Type conversion — integer division vs floating point          | [Download PDF](./workshops/01-q2-question.pdf) | [01-q2-solution.cpp](./workshops/01-q2-solution.cpp) |
+| Q3         | Using `<cmath>` — compute and format results                  | [Download PDF](./workshops/01-q3-question.pdf) | [01-q3-solution.cpp](./workshops/01-q3-solution.cpp) |
+| Q4         | Edge cases & input validation                                 | [Download PDF](./workshops/01-q4-question.pdf) | [01-q4-solution.cpp](./workshops/01-q4-solution.cpp) |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
@@ -43,7 +43,6 @@
 
 - [Topic Q&A](../resources/qa.md)  
 - [Workshop Slides](./workshops/01-basics-data-types/slides.pdf)  
-- [Professor Slides](../lectures/01-data-types/professor-slides.pdf)
 
 ---
 
