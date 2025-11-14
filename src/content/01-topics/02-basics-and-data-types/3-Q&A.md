@@ -8,10 +8,6 @@ For example:
 > - `int x = 5;` 
 > - `float y = 5.25;`
    
-📚 **Read more:**
-- [Professor Slides](https://chatgpt.com/Slides/Topic.pdf)
-- [Workshop Slides](https://chatgpt.com/Workshop/Workshop.pdf)
-- [External Resource](https://cplusplus.com/doc/tutorial/variables/)
 
 ---
 
@@ -21,8 +17,3 @@ For example:
 
 > [!info] Answer
 > Semicolons mark the end of a statement in C++. They help the compiler understand where one command finishes and the next begins.  Without it, the compiler throws an error.  
-
-📚 **Read more:**
-- [Professor Slides](https://chatgpt.com/Slides/Topic.pdf)    
-- [External Resource](https://www.geeksforgeeks.org/basics-of-cpp/)
-

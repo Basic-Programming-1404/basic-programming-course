@@ -8,57 +8,42 @@
 > [!tip] How to use this page  
 > - Start by attempting each question on your own.  
 > - Use the official solutions only to review and learn better approaches.  
-> - If something doesn’t make sense, **ask a TA** during or after the session.  
-> - Check the [Q&A page](../resources/qa.md) for common questions and clarifications.
+> - If something doesn’t make sense, **ask a TA**.
 
 ---
 
-## 📦 Download All Solutions
+## 📦 Download All Questions and Solutions
 
-- **All official solutions (zip):** [Download all official solutions](./workshops/01-basics-data-types/official-solutions.zip)
+- **All questions (zip):** [Download all questions](https://drive.google.com/file/d/1SaM7dICduui9NjqiqHTU-5L_AftlvoHE/view?usp=drive_link)
+- **All official solutions (zip):** [Download all official solutions](https://drive.google.com/file/d/1V3GwUGKBhvXT5Ab1fDy7Ek27x-1Q4Nny/view?usp=drive_link)
 
 ---
-
 ## 🧾 Official Questions & Solutions
 
-| Question # | Title / Short Description                                     | Question (Download)                                            | Official Solution (Download)                                     |
-|------------|---------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------|
-| Q1         | Simple I/O and variables — read two numbers and print the sum | [Download PDF](./workshops/01-q1-question.pdf)                 | [01-q1-solution.cpp](./workshops/01-q1-solution.cpp)             |
-| Q2         | Type conversion — integer division vs floating point         | [Download PDF](./workshops/01-q2-question.pdf)                 | [01-q2-solution.cpp](./workshops/01-q2-solution.cpp)             |
-| Q3         | Using `<cmath>` — compute and format results                  | [Download PDF](./workshops/01-q3-question.pdf)                 | [01-q3-solution.cpp](./workshops/01-q3-solution.cpp)             |
-| Q4         | Edge cases & input validation                                | [Download PDF](./workshops/01-q4-question.pdf)                 | [01-q4-solution.cpp](./workshops/01-q4-solution.cpp)             |
+| Question # | Question (Download)                                                                                   | Official Solution (Download)                                                                                     | Additional Notes |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 01         | [Download PDF](https://drive.google.com/file/d/1mQd1oFr605IYz8SFA0u07_tt8w5ibEIp/view?usp=sharing)    | [Download Solution (zip)](https://drive.google.com/file/d/1suqDVN3OtZDS4EnfJInVoM1tal6QWUit/view?usp=drive_link) |                  |
+| 02         | [Download PDF](https://drive.google.com/file/d/1mv7Mp3gxYSK1r-OH5h88ueJMSUCSC-Gc/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1UUlwNpQvdQU7S_h_azYSAudxsZKi6NtW/view?usp=drive_link) |                  |
+| 03         | [Download PDF](https://drive.google.com/file/d/1FT1YFfGDekytEDnRd2wNThTNRIJ0Gtvx/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1vtC4GwdEd2Q3YSos9FWzJeYEJy_4gwuu/view?usp=drive_link) |                  |
+| 04         | [Download PDF](https://drive.google.com/file/d/1ql1-JOaNArnH4aHjOvZkmWqYyDFcAKsV/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/17gfm6Ocl1RrA57FLJC4DS2-hn_gvVfFZ/view?usp=drive_link) |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
 
 ---
-
 ## ❓ Q&A and Support
 
 > [!question] Got stuck or confused?  
 > If something in a question or solution is unclear:
 > - Revisit the lecture notes and workshop slides.  
-> - Check the [Q&A page](../resources/qa.md) for clarifications.  
 > - Ask your TA — that’s what we’re here for.
 
-- [Topic Q&A](../resources/qa.md)  
-- [Workshop Slides](./workshops/01-basics-data-types/slides.pdf)  
-- [Professor Slides](../lectures/01-data-types/professor-slides.pdf)
-
+- [Topic Q&A](01-topics/02-basics-and-data-types/3-Q&A.md)  
+- [Professor Slides](01-topics/02-basics-and-data-types/4-ProfessorSlides.md)
+- [TA Slides](01-topics/02-basics-and-data-types/5-TASlides.md)
 ---
-
-## 🙏 Acknowledgements
-
-> [!success] Special thanks  
-> These materials were created collaboratively to support your learning.  
-> - You are encouraged to use and adapt the solutions **for learning**, not copying.  
-> - If you find an error or have a better solution, you can suggest an improvement.  
-> - TA and instructor feedback will be added over time.
-
----
-
 ## ⚖️ Licensing & Usage
 
 > [!important] Usage note  
-> Official workshop solutions are for **educational use only**. Please do not repost them publicly or use them in ways that violate course policy.
+> Official assignment solutions are for **educational use only**. Please do not repost them publicly or use them in ways that violate course policy.
 
