@@ -80,16 +80,14 @@
 
 ---
 ## 📑 Slides & Materials
-
-- 👨‍🏫 [Professor Slides (PDF)](./slides/prof.pdf)  
-- 🧑‍🏫 [TA Workshop Slides (PDF)](./slides/ta.pdf)
+- 👨‍🏫 [Professor Slides (PDF)](01-topics/02-basics-and-data-types/4-ProfessorSlides.md)
+- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/02-basics-and-data-types/5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
-
-- 💬 [Workshop Questions](./workshops)  
-- 🧮 [Assignments](01-topics/02-basics-and-data-types/1-Workshop.md)  
-- ❓ [Q&A and Common Issues](./resources/qa.md)
+- 💬 [Workshop Questions](1-Workshop.md)  
+- 🧮 [Assignments](2-Assignment.md)  
+- ❓ [Q&A and Common Issues](3-Q&A.md)
 
 ---
 ## 🌐 Additional Resources
@@ -98,13 +96,11 @@
 - [Learn C++](https://www.learncpp.com/)  
 - [Data Types in C++ (W3Schools)](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
-_Add more useful links here as the course progresses._
-
 ---
 ## ⏩ Navigation
 
-- ⬅️ [Previous Topic: Problem Solving](../02-problem-solving/topic.md)  
-- ➡️ [Next Topic: Conditions & Loops](../04-conditions-loops/topic.md)
+- ⬅️ [Previous Topic: Problem Solving](../01-problem-solving/0-Overview.md)  
+- ➡️ [Next Topic: Conditions & Loops](../03-conditions-loops/0-Overview.md)
 
 ---
 
