@@ -34,37 +34,3 @@
 ├─ assets/
 │
 └─ README.md
-
-
-
-- general
-	- course-info
-		- syllabus.md
-		- references.md
-		- generative-ai-usage-guidelines.md
-	- templates
-		- topic-overview-template.md
-		- workshop-template.md
-- topics
-	- problem-solving
-		- overview
-		- workshop
-		- assignment
-		- Q & A
-	- basics and data types
-		- overview
-		- workshop
-		- assignment
-		- Q & A
-	- conditions and loops
-	- function-basics
-	- arrays
-	- advanced-functions
-	- pointers
-	- file-struct
-	- mini-project
-	- final-project
-- extras
-	- debugging
-	- git
-- assets
