@@ -7,6 +7,7 @@
 
 -  **The Art of Problem Solving:** An introduction to planning, creativity, innovation, and clearly defining the cause, goal, and potential solutions to a problem.
 *   **Stages of Algorithmic Thinking:** A 7-step logical process for solving problems:
+```
     1.  Define the Problem
     2.  Analyze and Understand
     3.  Identify Potential Solutions
@@ -14,6 +15,7 @@
     5.  Plan Actions
     6.  Implement the Code
     7.  Review the Results
+```
 *   **What is an Algorithm?** Defining an algorithm as a step-by-step procedure or a recipe for solving a problem.
 *   **Introduction to Flowcharts:** Learning to visualize the flow of a solution using standard symbols to represent actions, decisions, and data flow.
 *   **Introduction to Pseudocode:** Understanding how to write a plain-language, structured description of an algorithm's steps before translating it into a programming language.
@@ -21,13 +23,12 @@
 ---
 ## 📑 Slides & Materials
 
-- 🧑‍🏫 [TA Workshop Slides (PDF)](./slides/ta.pdf)
+- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/01-problem-solving/5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](./workshops)  
-- 🧮 [Assignments](2-Assignment.md)  
+- 🧮 [Assignments](01-topics/01-problem-solving/2-Assignment.md)  
 
 
 ---
