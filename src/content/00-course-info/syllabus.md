@@ -1,4 +1,3 @@
-
 # **Course Objectives**
 
 The C++ Basic Programming Course introduces students to the foundations of programming through a practical and example-driven approach. With an emphasis on hands-on learning, this course helps students develop algorithmic thinking, write clean and correct C++ programs, and build confidence through structured practice.

@@ -9,7 +9,7 @@ This project is more than a collection of materials — it’s a living document
 
 ---
 
-## 🎯 Purpose and Vision
+## Purpose and Vision
 
 Our mission is to ensure that every student not only understands C++ concepts but can also **apply them confidently through coding, problem-solving, and projects.**
 
@@ -18,7 +18,7 @@ To achieve that, we combine theory from lectures with practice, mentorship, and 
 
 ---
 
-## 🧩 What This Repository Contains
+## What This Repository Contains
 
 | Section           | Description                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ All sections are written in **Markdown**, making them easy to read, modify, and 
 
 ---
 
-## 👩‍🏫 Our Teaching Model
+## Our Teaching Model
 
 Our approach combines **theoretical coverage, active practice, and close mentorship**:
 
@@ -54,7 +54,7 @@ Our approach combines **theoretical coverage, active practice, and close mentors
 
 ---
 
-## 🧭 Why We Document This
+## Why We Document This
 
 We’re documenting everything we do for three major reasons:
 
@@ -69,23 +69,23 @@ We’re documenting everything we do for three major reasons:
 
 ---
 
-## 🧠 Course Topics Overview
-| Week | Topic                                                                         | Description                                                                                                                                                                               | Overview                                                  | Workshop                                                  | Assignment                                                    |
-| ---- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
-| 1    | **Algorithmic Thinking & Problem-Solving**                                    | Develop foundational skills in algorithm design: representing problems with flowcharts and pseudocode, and reasoning about step-by-step solutions.                                        | [Overview](01-topics/01-problem-solving/0-Overview)       | -                                                         | [Assignment](01-topics/01-problem-solving/2-Assignment)       |
-| 2    | **Introduction to C++ & Basic Programming Constructs & Data Types**           | Get started with C++: setting up the IDE, basic syntax, compiling and linking, and simple programs. Understand fundamental data types, expressions and operations                         | [Overview](01-topics/02-basics-and-data-types/0-Overview) | [Workshop](01-topics/02-basics-and-data-types/1-Workshop) | [Assignment](01-topics/02-basics-and-data-types/2-Assignment) |
-| 3    | **Control Structures**                                                        | Move into control flow with logical operators, `if/else`, `switch`, loops, iteration and avoiding infinite loops.                                                                         |                                                           |                                                           |                                                               |
-| 4    | **Functions & Modular Design**                                                | Learn how to design and call functions in C++, including `void` vs return-type, parameter passing, overloading, and thinking in modular pieces.                                           |                                                           |                                                           |                                                               |
-| 5    | **Arrays, Strings & Multidimensional Data**                                   | Explore static arrays, C++ strings and multidimensional data structures. Incorporate memory-thinking in simple data manipulations.                                                        |                                                           |                                                           |                                                               |
-| 6    | **Advanced Functions & Recursion**                                            | Deepen function usage with recursion, higher-level thinking about how functions call themselves, and problem-solving patterns that leverage recursion.                                    |                                                           |                                                           |                                                               |
-| 7    | **Pointers & Dynamic Memory**                                                 | Dive into pointers, dynamic memory allocation/deallocation (e.g., `new`, `delete`), pointer arithmetic, and how memory model impacts correct usage of arrays/strings.                     |                                                           |                                                           |                                                               |
-| 8    | **File I/O, Structs & A Very Brief Introduction to Object-Oriented Concepts** | Work with file input/output streams, define and use `struct`s, and get a first glance at OOP mindset                                                                                      |                                                           |                                                           |                                                               |
-| 9    | **Mini Project**                                                              | Integrate the learned topics into a hands-on project: design, implement, test a moderately sized application showcasing applied algorithms, data structures and modular code.             |                                                           |                                                           |                                                               |
-| 10   | **Final Project & Wrap-up**                                                   | Launch the final project with full guidelines: design documentation, coding standards, testing, and presentation. Wrap up with reflections and next steps in C++ or software development. |                                                           |                                                           |                                                               |
+## Course Topics Overview
+| Week | Topic                                                                         | Description                                                                                                                                                                               | Overview                                                     | Workshop                                                     | Assignment                                                       |
+| ---- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 1    | **Algorithmic Thinking & Problem-Solving**                                    | Develop foundational skills in algorithm design: representing problems with flowcharts and pseudocode, and reasoning about step-by-step solutions.                                        | [Overview](01-topics/01-problem-solving/0-Overview.md)       | -                                                            | [Assignment](01-topics/01-problem-solving/2-Assignment.md)       |
+| 2    | **Introduction to C++ & Basic Programming Constructs & Data Types**           | Get started with C++: setting up the IDE, basic syntax, compiling and linking, and simple programs. Understand fundamental data types, expressions and operations                         | [Overview](01-topics/02-basics-and-data-types/0-Overview.md) | [Workshop](01-topics/02-basics-and-data-types/1-Workshop.md) | [Assignment](01-topics/02-basics-and-data-types/2-Assignment.md) |
+| 3    | **Control Structures**                                                        | Move into control flow with logical operators, `if/else`, `switch`, loops, iteration and avoiding infinite loops.                                                                         | [Overview](01-topics/03-conditions-loops/0-Overview.md)      | [Workshop](01-topics/03-conditions-loops/1-Workshop.md)      | [Assignment](01-topics/03-conditions-loops/2-Assignment.md)      |
+| 4    | **Functions & Modular Design**                                                | Learn how to design and call functions in C++, including `void` vs return-type, parameter passing, overloading, and thinking in modular pieces.                                           | [Overview](01-topics/04-function-1/0-Overview.md)            | [Workshop](01-topics/04-function-1/1-Workshop.md)            | [Assignment](01-topics/04-function-1/2-Assignment.md)            |
+| 5    | **Arrays, Strings & Multidimensional Data**                                   | Explore static arrays, C++ strings and multidimensional data structures. Incorporate memory-thinking in simple data manipulations.                                                        |                                                              |                                                              |                                                                  |
+| 6    | **Advanced Functions & Recursion**                                            | Deepen function usage with recursion, higher-level thinking about how functions call themselves, and problem-solving patterns that leverage recursion.                                    |                                                              |                                                              |                                                                  |
+| 7    | **Pointers & Dynamic Memory**                                                 | Dive into pointers, dynamic memory allocation/deallocation (e.g., `new`, `delete`), pointer arithmetic, and how memory model impacts correct usage of arrays/strings.                     |                                                              |                                                              |                                                                  |
+| 8    | **File I/O, Structs & A Very Brief Introduction to Object-Oriented Concepts** | Work with file input/output streams, define and use `struct`s, and get a first glance at OOP mindset                                                                                      |                                                              |                                                              |                                                                  |
+| 9    | **Mini Project**                                                              | Integrate the learned topics into a hands-on project: design, implement, test a moderately sized application showcasing applied algorithms, data structures and modular code.             |                                                              |                                                              |                                                                  |
+| 10   | **Final Project & Wrap-up**                                                   | Launch the final project with full guidelines: design documentation, coding standards, testing, and presentation. Wrap up with reflections and next steps in C++ or software development. |                                                              |                                                              |                                                                  |
 
 ---
 
-## 🌍 Long-Term Goals
+## Long-Term Goals
 
 - Create a **sustainable, evolving educational model** that balances theory and practice.  
 - Encourage **open-source education** — anyone can learn from or contribute to our materials.  
@@ -93,7 +93,7 @@ We’re documenting everything we do for three major reasons:
 
 ---
 
-## 🧑‍🤝‍🧑 The Team
+## The Team
 - **Professor**: [Dr. Saeed Reza Kheradpisheh](https://github.com/SRKH)
 - **Head Teaching Assistant:**[ Mehrdad Shirvani](https://github.com/MehrdadShirvani)
 - **Teaching Assistants (Alphabetical by Last Name):**
@@ -108,7 +108,7 @@ We’re documenting everything we do for three major reasons:
 	- [MohammadFazel Sadeghizad](https://github.com/Sadeghizad)
 	- [Sadra Seyedtabaei](https://github.com/Sadra3st)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions — whether you’re a TA, a student, or an educator from another institution.
 
@@ -122,7 +122,7 @@ Please open a **pull request** or contact us.
 
 ---
 
-## 🏗️ Tech Stack 
+## Tech Stack 
 
 If this repository includes interactive code or materials, consider mentioning:
 - **Markdown** for documentation  
@@ -132,7 +132,7 @@ If this repository includes interactive code or materials, consider mentioning:
 
 ---
 
-## 📜 License
+## License
 
 All materials are shared under the **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)** license.  
 You’re free to learn, adapt, and build upon our content — just credit the authors and share alike.
