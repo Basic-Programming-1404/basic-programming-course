@@ -87,7 +87,7 @@
 ## 🛠️ Workshop & Assignments
 - 💬 [Workshop Questions](1-Workshop.md)  
 - 🧮 [Assignments](2-Assignment.md)  
-- ❓ [Q&A and Common Issues](3-Q&A.md)
+- ❓ [Q&A and Common Issues]()
 
 ---
 ## 🌐 Additional Resources

@@ -122,19 +122,16 @@
     - Using print statements to track variables
     - Recognizing off-by-one errors
 
-
-
-
 ## 📑 Slides & Materials
-- 👨‍🏫 [Professor Slides (PDF)](./4-ProfessorSlides.md)  
-- 🧑‍🏫 [TA Workshop Slides (PDF)](./5-TASlides)
+- 👨‍🏫 [Professor Slides (PDF)](01-topics/03-conditions-loops/4-ProfessorSlides.md)
+- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/03-conditions-loops/5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](./1-Workshop)  
-- 🧮 [Assignments](01-topics/01-problem-solving/2-Assignment.md)  
-- ❓ [Q&A and Common Issues](./3-Q&A.md)
+- 💬 [Workshop Questions](01-topics/01-problem-solving/2-Assignment.md)
+- 🧮 [Assignments](01-topics/01-problem-solving/2-Assignment.md)
+- ❓ [Q&A and Common Issues]()
 
 ---
 ## 🌐 Additional Resources
@@ -143,13 +140,11 @@
 - [Learn C++](https://www.learncpp.com/)  
 - [Data Types in C++ (W3Schools)](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
-_Add more useful links here as the course progresses._
-
 ---
 ## ⏩ Navigation
 
-- ⬅️ [Previous Topic: Problem Solving](../02-problem-solving/topic.md)  
-- ➡️ [Next Topic: Conditions & Loops](../04-conditions-loops/topic.md)
+- ⬅️ [Previous Topic: Basics and Data Types](../02-basics-and-data-types/0-Overview.md)  
+- ➡️ [Next Topic: Functions 1](../04-function-1/0-Overview.md)
 ---
 
 > [!tip] Tip
