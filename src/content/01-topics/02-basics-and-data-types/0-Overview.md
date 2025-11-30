@@ -85,8 +85,8 @@
 
 ---
 ## 🛠️ Workshop & Assignments
-- 💬 [Workshop Questions](1-Workshop.md)  
-- 🧮 [Assignments](2-Assignment.md)  
+- 💬 [Workshop Questions](01-topics/02-basics-and-data-types/1-Workshop.md)  
+- 🧮 [Assignments](01-topics/02-basics-and-data-types/2-Assignment.md)  
 - ❓ [Q&A and Common Issues]()
 
 ---
