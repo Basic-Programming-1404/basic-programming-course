@@ -128,8 +128,6 @@
 ## 🌐 Additional Resources
 
 - [C++ Reference](https://cplusplus.com/reference/)  
-- [Learn C++](https://www.learncpp.com/)  
-- [Data Types in C++ (W3Schools)](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
 ---
 ## ⏩ Navigation

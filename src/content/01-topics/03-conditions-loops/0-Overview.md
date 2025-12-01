@@ -129,8 +129,8 @@
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](01-topics/01-problem-solving/2-Assignment.md)
-- 🧮 [Assignments](01-topics/01-problem-solving/2-Assignment.md)
+- 💬 [Workshop Questions](01-topics/03-conditions-loops/2-Assignment.md)
+- 🧮 [Assignments](01-topics/03-conditions-loops/2-Assignment.md)
 - ❓ [Q&A and Common Issues]()
 
 ---
