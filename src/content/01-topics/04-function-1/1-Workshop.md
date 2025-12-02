@@ -37,9 +37,9 @@
 > - Revisit the lecture notes and workshop slides.  
 > - Ask your TA — that’s what we’re here for.
 
-- [Topic Q&A](01-topics/02-basics-and-data-types/3-Q&A.md)  
-- [Professor Slides](01-topics/02-basics-and-data-types/4-ProfessorSlides.md)
-- [TA Slides](01-topics/02-basics-and-data-types/5-TASlides.md)
+- [Topic Q&A](3-Q&A.md)  
+- [Professor Slides](4-ProfessorSlides.md)
+- [TA Slides](5-TASlides.md)
 ---
 ## ⚖️ Licensing & Usage
 
