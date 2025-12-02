@@ -96,14 +96,14 @@
 
 ---
 ## 📑 Slides & Materials
-- 👨‍🏫 [Professor Slides (PDF)](01-topics/04-function-1/4-ProfessorSlides.md)  
-- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/04-function-1/5-TASlides.md)
+- 👨‍🏫 [Professor Slides (PDF)](4-ProfessorSlides.md)  
+- 🧑‍🏫 [TA Workshop Slides (PDF)](5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](01-topics/04-function-1/1-Workshop.md)
-- 🧮 [Assignments](01-topics/04-function-1/2-Assignment.md)
+- 💬 [Workshop Questions](1-Workshop.md)
+- 🧮 [Assignments](2-Assignment.md)
 - ❓ [Q&A and Common Issues]()
 
 ---
