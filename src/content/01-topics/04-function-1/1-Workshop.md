@@ -14,18 +14,17 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions]()
-- **All official solutions (zip):** [Download all official solutions]()
+- **All questions (zip):** [Download all questions](https://drive.google.com/file/d/19EIICYkB7sUmsEVB6da5eZ5MQ7WTuP88/view?usp=drive_link)
+- **All official solutions (zip):** [Download all official solutions](https://drive.google.com/file/d/1j0gtsHGPOcpH8GOVAyvxFqecCze1SQH0/view?usp=drive_link)
 
 ---
 ## 🧾 Official Questions & Solutions
 
 | Question # | Question (Download) | Official Solution (Download) | Additional Notes |
 | ---------- | ------------------- | ---------------------------- | ---------------- |
-| 01         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 02         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 03         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 04         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
+| 01         | [Download PDF](https://drive.google.com/file/d/1LZysw18yVMxIeSfI5myQ-PJEtHD5_Qgl/view?usp=drive_link)    | [Download Solution (zip)](https://drive.google.com/file/d/1piw1JTjDYyrfhyDaFOlzbwsyp0exbMws/view?usp=drive_link)  |                  |
+| 02         | [Download PDF](https://drive.google.com/file/d/1_Qvwn_c2AUgAEYWYLs2D8rwDgzklFr2-/view?usp=drive_link)    | [Download Solution (zip)](https://drive.google.com/file/d/1njLCfQOu7Wg5JOgigoLM9D8ApACNRleT/view?usp=drive_link)  |                  |
+| 03         | [Download PDF](https://drive.google.com/file/d/1bUqIBdveAywXfEIxdAMHQdvzrf2qS2H-/view?usp=drive_link)    | [Download Solution (zip)](https://drive.google.com/file/d/1Ig4BJdoivI__8_1Aj2uZm9-KRWh0zT-1/view?usp=drive_link)  |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
