@@ -14,18 +14,17 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions]()
-- **All official solutions (zip):** [Download all official solutions]()
+- **All questions (zip):** [Download all questions](https://drive.usercontent.google.com/u/0/uc?id=19EIICYkB7sUmsEVB6da5eZ5MQ7WTuP88&export=download)
+- **All official solutions (zip):** [Download all official solutions](https://drive.usercontent.google.com/u/0/uc?id=1j0gtsHGPOcpH8GOVAyvxFqecCze1SQH0&export=download)
 
 ---
 ## 🧾 Official Questions & Solutions
 
-| Question # | Question (Download) | Official Solution (Download) | Additional Notes |
-| ---------- | ------------------- | ---------------------------- | ---------------- |
-| 01         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 02         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 03         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 04         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
+| Question # | Question (Download)                                                                                              | Official Solution (Download)                                                                                                | Additional Notes |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 01         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1LZysw18yVMxIeSfI5myQ-PJEtHD5_Qgl&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1piw1JTjDYyrfhyDaFOlzbwsyp0exbMws&export=download) |                  |
+| 02         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1_Qvwn_c2AUgAEYWYLs2D8rwDgzklFr2-&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1njLCfQOu7Wg5JOgigoLM9D8ApACNRleT&export=download) |                  |
+| 03         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1bUqIBdveAywXfEIxdAMHQdvzrf2qS2H-&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1Ig4BJdoivI__8_1Aj2uZm9-KRWh0zT-1&export=download) |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
@@ -38,9 +37,9 @@
 > - Revisit the lecture notes and workshop slides.  
 > - Ask your TA — that’s what we’re here for.
 
-- [Topic Q&A](01-topics/02-basics-and-data-types/3-Q&A.md)  
-- [Professor Slides](01-topics/02-basics-and-data-types/4-ProfessorSlides.md)
-- [TA Slides](01-topics/02-basics-and-data-types/5-TASlides.md)
+- [Topic Q&A](3-Q&A.md)  
+- [Professor Slides](4-ProfessorSlides.md)
+- [TA Slides](5-TASlides.md)
 ---
 ## ⚖️ Licensing & Usage
 

@@ -1,133 +1,114 @@
 # 🧭 Topic: Function Basics
 
-
-> [!info] Quick Overview
+> [!info] **Quick Overview :**
 > 
+> This topic introduces functions in C++, why we use them, how they are
+> defined and called, how parameters and return values work, and how to
+> write clean, professional function-based code.
 
 ---
 ## 📌 Covered in This Topic
 
- **Introduction to Functions**
-- What functions are
-- Key goals: modularity, reuse, readability, debugging
-- Real-world analogy: “tasks” or “machines” that take input and produce output
+### **Introduction to Functions**
+- What functions are (self-contained blocks of code)
+- Key goals:
+    - Modularity
+    - Reusability (Write once, use everywhere)
+    - Readability
+    - Debugging & error isolation
+- Real-world analogy: a “machine” that takes input and produces output
 
-**Why We Need Functions**
-- Code reuse
-- Reducing complexity
-- Avoiding repetition
+### **Why We Need Functions**
+- Eliminating repetition (D.R.Y. — Don’t Repeat Yourself)
 - Breaking problems into sub-problems
-- Making programs testable
-- Collaboration benefits: multiple people working on different functions
+- Reducing complexity
+- Abstraction (main doesn’t care *how*, only *what*)
+- Professional collaboration benefits
 
-**Predefined Library Functions**
-- Overview of `<cmath>`, `<iomanip>`, helpers
-- Calling library functions (syntax, examples)
+### **User-Defined Functions**
+- Anatomy of a function:
+    - Return type
+    - Function name
+    - Parameters
+    - Body
+- Function lifecycle:
+    - Declaration (prototype)
+    - Definition
+    - Calling
+- Declaration vs. Definition
+- Function prototypes and their purpose
 
-**User-Defined Functions**
-- Components of a user-defined function
-- **Declaration** vs. **Definition** vs. **Call**
-- Variables inside functions (local variables & scope)
-- Global variables — why to avoid them
-- Lifetime and visibility of variables
+### **Return Types**
+- Allowed return types
+- Limitation: a function returns only **one value**
+- `void` functions:
+    - Definition and use cases
+    - Using `return;` as an “exit door”
 
-**Parameters, Arguments & Terminology**
-- Parameter vs. Argument (definition, examples)
-- Types of parameters: input, output, in-out
-- Naming conventions for parameters
-- Why parameter order and clarity matter
-- Common student mistakes (e.g., confusing scope)
+### **Parameters & Arguments**
+- Parameter vs. argument (placeholder vs. actual data)
+- Order and clarity of parameters
+- Parameter names optional in prototypes
+- Scope and lifetime of parameters
 
-**Return Types**
-- `void` vs. non-void
-- Returning multiple values → reference parameters
-- Return type limitations (only one return value)
-- Allowed data types
-- When to use `return;` in void functions
-- Early returns and readability. (Guard Clause)
+### **Scope & Lifetime**
+- Local variables
+- Global variables:
+    - What they are
+    - Why to avoid them
+- Static local variables
+- Variable shadowing
+- Priority of scopes
 
-**Function Prototypes**
-- What prototypes do
-- Why prototypes are needed in C++
-- Where to place prototypes (before `main` or in headers)
-- Typical student errors (e.g., mismatched signatures)
+### **Default Arguments**
+- Syntax of default parameters
+- Rules:
+    - Must be placed on the **right**
+    - Evaluated at **compile time**
+- Correct vs. incorrect usage
+- Common ambiguity problems
 
-**Default Arguments**
-- Syntax for default values
-- Rules (right-to-left, only in declaration)
-- Good vs. bad use cases
-- Common pitfalls
-
-**Parameter Passing Methods**
+### **Parameter Passing Methods**
 - **Pass by value**
-    - Cheap for ints, bools, chars
-    - Safe, makes a copy
+    - Copy is made
+    - Original variable unchanged
+    - Best for small data types
 - **Pass by reference (`&`)**
-    - Used for modifying caller variables
-    - Used for performance
-- **When to choose which method**
-	- Memory model overview (stack frame, copies)
+    - Works on original variable
+    - Used for modification or performance
+- When and why to choose each method
 
+### **Function Overloading**
+- Definition of overloading
+- Valid overloading rules
+- Return type alone does NOT overload
+- Overload resolution basics
+- Numeric literal suffixes and their effect
+- Overloading vs. default arguments (ambiguity)
 
-**Function Overloading**
-- What overloading is
-- Rules for valid overloading
-- Overloading vs. default args and ambiguity
-- Examples: `abs`, `sort`, etc.
-- Common pitfalls (type conversion confusion)
-
-**Clean Code & Best Practices**
-**Syntax**
-- Consistent formatting
-- Clear parameter naming
-- Avoid deeply nested logic inside functions
-
-**Naming**
-- Verbs for functions (`calculateTotal`, `isValid`)
-- Avoid generic names (`func1`, `doStuff`)
-- Self-documenting naming
-
-**SRP (Single Responsibility Principle)**
-- One function should do one thing
-- How complex is “too complex”?
-- When to break a function into smaller pieces
-
-**Function Length & Complexity**
-- Cyclomatic complexity
-- Indicators that a function needs refactoring
-- How to make logic testable
-
-**Scope, Lifetime & Static Functions**
-- Local vs. global variables
-- Shadowing
-- `static` local variables
-- When to use function-level statics
-- Danger of relying on state
-
-**Common Student Mistakes**
-- Defining a function inside another function
-- Forgetting to return a value
-- Mismatched declaration and definition
-- Depending on global variables instead of parameters
-- (Optional) Passing large objects by value
+### **Clean Code & Best Practices**
+- Syntax and formatting
+- Function placement & structure
+- Meaningful naming (verbs for functions)
+- SRP (Single Responsibility Principle)
+- Function length and complexity
+- Refactoring deeply nested logic
 
 ---
-
 ## 📑 Slides & Materials
-- 👨‍🏫 [Professor Slides (PDF)](01-topics/04-function-1/4-ProfessorSlides.md)  
-- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/04-function-1/5-TASlides.md)
+- 👨‍🏫 [Professor Slides (PDF)](4-ProfessorSlides.md)  
+- 🧑‍🏫 [TA Workshop Slides (PDF)](5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](01-topics/04-function-1/2-Assignment.md)
-- 🧮 [Assignments](01-topics/04-function-1/2-Assignment.md)
+- 💬 [Workshop Questions](1-Workshop.md)
+- 🧮 [Assignments](2-Assignment.md)
 - ❓ [Q&A and Common Issues]()
 
 ---
 ## 🌐 Additional Resources
-
-- [C++ Reference](https://cplusplus.com/reference/)  
+- C++ Reference (cplusplus.com)
 
 ---
 ## ⏩ Navigation
@@ -136,6 +117,7 @@
 - ➡️ [Next Topic: Arrays](../05-arrays/0-Overview.md)
 ---
 
-> [!tip] Tip
+> [!tip] **Tip :**
+> 
 > If something doesn’t make sense — **don’t stay stuck alone**. Ask the TA to clarify it right away. Often, a quick question can save you a lot of time and frustration. Remember: if you’re confused, chances are others are too.
 
