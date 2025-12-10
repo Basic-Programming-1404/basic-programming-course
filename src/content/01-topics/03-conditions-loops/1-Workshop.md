@@ -25,7 +25,7 @@
 | 01         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
 | 02         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
 | 03         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 04         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
+
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.

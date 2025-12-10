@@ -95,7 +95,7 @@
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions]()
+- 💬 [Workshop Questions](1-Workshop.md)
 - 🧮 [Assignments]()
 - ❓ [Q&A and Common Issues]()
 
