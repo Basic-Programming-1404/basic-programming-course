@@ -54,7 +54,7 @@
 
 ---
 ## 📑 Slides & Materials
-- 🧑‍🏫 [TA Workshop Slides (PDF)](5-TASlides.md)
+- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/06-functions-2/5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments
@@ -71,6 +71,7 @@
 ## ⏩ Navigation
 
 - ⬅️ [Previous : Arrays](../05-arrays/0-Overview.md)
+- ➡️ [Next Topic: Pointers](../07-pointers/0-Overview.md)
 
 ---
 

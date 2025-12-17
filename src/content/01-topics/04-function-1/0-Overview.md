@@ -96,8 +96,8 @@
 
 ---
 ## 📑 Slides & Materials
-- 👨‍🏫 [Professor Slides (PDF)](4-ProfessorSlides.md)  
-- 🧑‍🏫 [TA Workshop Slides (PDF)](5-TASlides.md)
+- 👨‍🏫 [Professor Slides (PDF)](01-topics/04-function-1/4-ProfessorSlides.md)  
+- 🧑‍🏫 [TA Workshop Slides (PDF)](01-topics/04-function-1/5-TASlides.md)
 
 ---
 ## 🛠️ Workshop & Assignments

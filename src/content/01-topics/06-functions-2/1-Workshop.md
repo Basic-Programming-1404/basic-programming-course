@@ -38,7 +38,7 @@
 > - Ask your TA — that’s what we’re here for.
 
 
-- [TA Slides](5-TASlides.md)
+- [TA Slides](01-topics/06-functions-2/5-TASlides.md)
 ---
 ## ⚖️ Licensing & Usage
 

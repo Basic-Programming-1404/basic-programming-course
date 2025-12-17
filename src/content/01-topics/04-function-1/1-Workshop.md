@@ -38,8 +38,8 @@
 > - Ask your TA — that’s what we’re here for.
 
 - [Topic Q&A](3-Q&A.md)  
-- [Professor Slides](4-ProfessorSlides.md)
-- [TA Slides](5-TASlides.md)
+- [Professor Slides](01-topics/04-function-1/4-ProfessorSlides.md)
+- [TA Slides](01-topics/04-function-1/5-TASlides.md)
 ---
 ## ⚖️ Licensing & Usage
 

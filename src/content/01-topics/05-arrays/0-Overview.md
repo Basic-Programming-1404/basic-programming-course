@@ -95,7 +95,7 @@
 ---
 ## 🛠️ Workshop & Assignments
 
-- 💬 [Workshop Questions](1-Workshop.md)
+- 💬 [Workshop Questions](01-topics/05-arrays/1-Workshop.md)
 - 🧮 [Assignments]()
 - ❓ [Q&A and Common Issues]()
 
@@ -106,9 +106,8 @@
 
 ---
 ## ⏩ Navigation
-
-- ⬅️ [Previous Topic: Functions 1]()  
-- ➡️ [Next Topic: Functions 2]()
+- ⬅️ [Previous Topic: Functions 1](01-topics/04-function-1/0-Overview.md)  
+- ➡️ [Next Topic: Functions 2](01-topics/06-functions-2/0-Overview.md)
 ---
 
 > [!tip] Tip
