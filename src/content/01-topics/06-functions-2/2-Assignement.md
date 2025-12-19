@@ -14,24 +14,23 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions]()
-- **All official solutions (zip):** [Download all official solutions]()
+- **All questions (zip):** [Download all questions](https://drive.google.com/uc?export=download&id=1pCMqYSfBpWYlCXaMUoIyJYQG-EToIfbJ
+)
+- **All official solutions (zip):** [Download all official solutions](https://drive.google.com/uc?export=download&id=1YinvLeoi7QaOzniKXuxNGJ-P7UgABWKV)
 
 ---
 ## 🧾 Official Questions & Solutions
 
 | Question # | Question (Download) | Official Solution (Download) | Additional Notes |
 | ---------- | ------------------- | ---------------------------- | ---------------- |
-| 01         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 02         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 03         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 04         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 05         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 06         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 07         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 08         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 09         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 10         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
+| 01         | [Download PDF](https://drive.google.com/uc?export=download&id=1FH6_WSH-JXNrZiKfYM79AMk7GAk-noxF)    | [Download Solution](https://drive.google.com/uc?export=download&id=1zdDPcpdj1Ykg0rewUF25n93jJCoAMmcI     )  |                  |
+| 02         | [Download PDF](https://drive.google.com/uc?export=download&id=17gH7sk6CEPedgIYS01xvZTfUG2q6BUpz)    | [Download Solution](https://drive.google.com/uc?export=download&id=1SDZjYhWNSvxL0Bd2CD-hTb3Bmq2AizNo)  |                  |
+| 03         | [Download PDF](https://drive.google.com/uc?export=download&id=1aLjw4H52vmTZc_2dMG2QkOhp3DfAOl6T)    | [Download Solution](https://drive.google.com/uc?export=download&id=188xwq3ZLq3umcbbUfUyE084T52ear_G2)  |                  |
+| 04         | [Download PDF](https://drive.google.com/uc?export=download&id=1TOeYERCnYmFtz9FeVjw_knFpFgUb3t6E)    | [Download Solution](https://drive.google.com/uc?export=download&id=1gIMCV4N7n-DkAkCEzZnwVdyy6IuzfTKw)  |                  |
+| 05         | [Download PDF](https://drive.google.com/uc?export=download&id=1PkMIHwAhfiPzib9YP4csor_xDmgC5V3v)    | [Download Solution](https://drive.google.com/uc?export=download&id=1JNXDALCPElc7vG350oPixqqtbwLnfMf-)  |                  |
+| 06         | [Download PDF](https://drive.google.com/uc?export=download&id=1pRSawdR5HWoa110ZPOMuvJTU3tHVDnuz)    | [Download Solution](https://drive.google.com/uc?export=download&id=15I8uN1eqIfV0g9uO83K3OX6K_gIYIPDk)  |                  |
+| 07         | [Download PDF](https://drive.google.com/uc?export=download&id=14YHYIpEvlAPSwsoRPUxfk8PXBL_DMSoW)    | [Download Solution](https://drive.google.com/uc?export=download&id=1FOUx62pLkOQPBvOwVdHzFai2Gmjh4suO)  |                  |
+| 08         | [Download PDF](https://drive.google.com/uc?export=download&id=1Jr2KbIsaTqB59KgX5YV2xMwG6rGBRo7B)    | [Download Solution](https://drive.google.com/uc?export=download&id=1_yVhuf_J55ud4MZjujzQ6Cgbq3WlJWLe)  |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
