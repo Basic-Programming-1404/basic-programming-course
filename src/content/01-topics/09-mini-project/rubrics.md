@@ -21,7 +21,6 @@
 - Correct cell selection mechanism
 
 ---
-
 ## 3. Core Game Logic and End-Game Conditions — **200 points**
 
 - Correct detection of valid moves
@@ -33,11 +32,9 @@
     - No valid moves for both players
 - Correct score calculation and winner declaration
 
-
-
 ---
 
-## 4. Single-Player Mode and Bot Functionality — **100 points**
+## 4. Single-Player Mode and Bot Functionality — **90 points**
 - Ability to play against a bot
 - Bot always makes valid moves
 - Bot does not crash or freeze the game
@@ -45,14 +42,14 @@
 
 ---
 
-## 5. Menu System — **60 points**
+## 5. Menu System — **50 points**
 - Clear and functional main menu
 - Correct navigation between options
 - Proper handling of user selections
 
 ---
 
-## 6. Leaderboard Saving and Display — **70 points**
+## 6. Leaderboard Saving and Display — **50 points**
 - Correct use of file I/O
 - Persistent storage of player data
 - Clean and readable leaderboard display
@@ -70,7 +67,7 @@
 
 ---
 
-## 8. Code Cleanliness, Structure, and Modularity — **90 points**
+## 8. Code Cleanliness, Structure, and Modularity — **100 points**
 - Well-structured code with clear functions
 - Meaningful naming conventions
 - Minimal duplication
@@ -80,7 +77,7 @@
 
 ---
 
-## 9. Code Understanding and Mastery — 70 points**
+## 9. Code Understanding and Mastery — 100 points**
 - Student can clearly explain their implementation
 - Demonstrates strong understanding of logic
 - Can modify or extend the code if asked
@@ -96,21 +93,19 @@
 | Board Display               | 80      |
 | Input & Movement            | 80      |
 | Game Logic & End Conditions | 200     |
-| Single-Player & Bot         | 100     |
-| Menu System                 | 60      |
-| Leaderboard                 | 70      |
+| Single-Player & Bot         | 90      |
+| Menu System                 | 50      |
+| Leaderboard                 | 50      |
 | UI / UX                     | 50      |
-| Code Structure              | 90      |
-| Code Mastery                | 70      |
+| Code Structure              | 100     |
+| Code Mastery                | 100     |
 | **Total**                   | **800** |
-
-
 
 
 
 # Bonus Features — **Up to 200 Points**
 
-## 1. Save & Load Game State — **20 points**
+## 1. Save & Load Game State — **30 points**
 - Ability to **save the game during gameplay** (e.g., via a specific key or on exit)
 - Complete game state is saved:
     - Board state
@@ -138,7 +133,6 @@
 - UI remains readable and consistent across the game
 
 ---
-
 ## 4. Configurable Board Size — **10 points**
 - User can select board size at the start of the game
 - Board size is **even and valid** (e.g., 6×6, 8×8, 10×10)
@@ -147,7 +141,6 @@
 ---
 
 ## 5. Display of Valid Moves (Hints) — **10 points**
-
 - Valid moves for the current player are visually indicated on the board
 - Uses a distinct marker (e.g., dim `*` or highlighted cell)
 - Hints update correctly when the turn changes
@@ -155,23 +148,19 @@
 
 ---
 
-## 6. Game Replay Feature — **20 points**
-
+## 6. Game Replay Feature — **30 points**
 - All moves are recorded during gameplay
 - After the game ends, user can replay the game from start to finish
 - Replay shows moves step-by-step in correct order
 - Controls for replay progression (automatic or manual) are reasonable
 
 ---
-
-## 8. Creative Features & Enhancements — **Up to 40 points**
-
+## 7. Creative Features & Enhancements — **Up to 50 points**
 - Any original or creative idea that meaningfully improves the game, such as:
     - Difficulty levels
     - Undo move
     - Animations or delays
     - Better menus or transitions
 - Feature must be functional and integrated into the game
-    
 
 
