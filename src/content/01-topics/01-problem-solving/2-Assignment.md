@@ -14,24 +14,24 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions](https://drive.google.com/file/d/1SaM7dICduui9NjqiqHTU-5L_AftlvoHE/view?usp=drive_link)
-- **All official solutions (zip):** [Download all official solutions](https://drive.google.com/file/d/1V3GwUGKBhvXT5Ab1fDy7Ek27x-1Q4Nny/view?usp=drive_link)
+- **All questions (zip):** [Download all questions](https://drive.usercontent.google.com/u/0/uc?id=1SaM7dICduui9NjqiqHTU-5L_AftlvoHE&export=download)
+- **All official solutions (zip):** [Download all official solutions](https://drive.usercontent.google.com/u/0/uc?id=1V3GwUGKBhvXT5Ab1fDy7Ek27x-1Q4Nny&export=download)
 
 ---
 ## 🧾 Official Questions & Solutions
 
-| Question # | Question (Download)                                                                                   | Official Solution (Download)                                                                                     | Additional Notes |
-| ---------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 01         | [Download PDF](https://drive.google.com/file/d/1mQd1oFr605IYz8SFA0u07_tt8w5ibEIp/view?usp=sharing)    | [Download Solution (zip)](https://drive.google.com/file/d/1suqDVN3OtZDS4EnfJInVoM1tal6QWUit/view?usp=drive_link) |                  |
-| 02         | [Download PDF](https://drive.google.com/file/d/1mv7Mp3gxYSK1r-OH5h88ueJMSUCSC-Gc/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1UUlwNpQvdQU7S_h_azYSAudxsZKi6NtW/view?usp=drive_link) |                  |
-| 03         | [Download PDF](https://drive.google.com/file/d/1FT1YFfGDekytEDnRd2wNThTNRIJ0Gtvx/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1vtC4GwdEd2Q3YSos9FWzJeYEJy_4gwuu/view?usp=drive_link) |                  |
-| 04         | [Download PDF](https://drive.google.com/file/d/1ql1-JOaNArnH4aHjOvZkmWqYyDFcAKsV/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/17gfm6Ocl1RrA57FLJC4DS2-hn_gvVfFZ/view?usp=drive_link) |                  |
-| 05         | [Download PDF](https://drive.google.com/file/d/1ev7SrFO4kdSkPn7ZX8z148QptLDJVpmG/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1OuI3u81ll6-GKARoVYUEjabFaHTINyKm/view?usp=drive_link) |                  |
-| 06         | [Download PDF](https://drive.google.com/file/d/1cSJwqGXNXzu8foMDh9585VM6MzkQ1TKH/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1alVdHcCxrTcCIH0wZbS6CDCCmDclNaRH/view?usp=drive_link) |                  |
-| 07         | [Download PDF](https://drive.google.com/file/d/1klayxpRC-EIC_E7S_-SnOojA3lUmuNrZ/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/11pjUFIcS83qcy7Ac5l8DHL-EEgkVO5NE/view?usp=drive_link) |                  |
-| 08         | [Download PDF](https://drive.google.com/file/d/18yKwoek6fmrSaUZWF79rrIn5BGS0GUIK/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1OuPGpJgkfB8BHoDlMaTDnlRn9NhyLDdA/view?usp=drive_link) |                  |
-| 09         | [Download PDF](https://drive.google.com/file/d/1i9XugaK_iqJlgaWemrrZbYxNlGmXsm9d/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/1Ppni5K6EQZF2mqVR_u6dq7NyXS-eHZ-1/view?usp=drive_link) |                  |
-| 10         | [Download PDF](https://drive.google.com/file/d/1ihsQfgfZp7wWRt33lm3-ZPAnkQ0I5bv4/view?usp=drive_link) | [Download Solution (zip)](https://drive.google.com/file/d/110ieA_9qNIyvweunLKChcQHcraSeoWI6/view?usp=drive_link) |                  |
+| Question # | Question (Download)                                                                                              | Official Solution (Download)                                                                                                | Additional Notes |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 01         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1mQd1oFr605IYz8SFA0u07_tt8w5ibEIp&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1suqDVN3OtZDS4EnfJInVoM1tal6QWUit&export=download) |                  |
+| 02         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1mv7Mp3gxYSK1r-OH5h88ueJMSUCSC-Gc&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1UUlwNpQvdQU7S_h_azYSAudxsZKi6NtW&export=download) |                  |
+| 03         | [Download PDF]https://drive.usercontent.google.com/u/0/uc?id=1FT1YFfGDekytEDnRd2wNThTNRIJ0Gtvx&export=download)  | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1vtC4GwdEd2Q3YSos9FWzJeYEJy_4gwuu&export=download) |                  |
+| 04         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1ql1-JOaNArnH4aHjOvZkmWqYyDFcAKsV&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=17gfm6Ocl1RrA57FLJC4DS2-hn_gvVfFZ&export=download) |                  |
+| 05         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1ev7SrFO4kdSkPn7ZX8z148QptLDJVpmG&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1OuI3u81ll6-GKARoVYUEjabFaHTINyKm&export=download) |                  |
+| 06         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1cSJwqGXNXzu8foMDh9585VM6MzkQ1TKH&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1alVdHcCxrTcCIH0wZbS6CDCCmDclNaRH&export=download) |                  |
+| 07         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1klayxpRC-EIC_E7S_-SnOojA3lUmuNrZ&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=11pjUFIcS83qcy7Ac5l8DHL-EEgkVO5NE&export=download) |                  |
+| 08         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=18yKwoek6fmrSaUZWF79rrIn5BGS0GUIK&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1OuPGpJgkfB8BHoDlMaTDnlRn9NhyLDdA&export=download) |                  |
+| 09         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1i9XugaK_iqJlgaWemrrZbYxNlGmXsm9d&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=1Ppni5K6EQZF2mqVR_u6dq7NyXS-eHZ-1&export=download) |                  |
+| 10         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1ihsQfgfZp7wWRt33lm3-ZPAnkQ0I5bv4&export=download) | [Download Solution (zip)](https://drive.usercontent.google.com/u/0/uc?id=110ieA_9qNIyvweunLKChcQHcraSeoWI6&export=download) |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.

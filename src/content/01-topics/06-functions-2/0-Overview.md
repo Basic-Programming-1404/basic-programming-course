@@ -60,7 +60,7 @@
 ## 🛠️ Workshop & Assignments
 
 - 💬 [Workshop Questions](01-topics/05-arrays/1-Workshop.md)
-- 🧮 [Assignments](2-Assignment.md)
+- 🧮 [Assignments](01-topics/04-function-1/2-Assignment.md)
 - ❓ [Q&A and Common Issues]()
 
 ---

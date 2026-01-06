@@ -14,8 +14,7 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions](https://drive.google.com/uc?export=download&id=1pCMqYSfBpWYlCXaMUoIyJYQG-EToIfbJ
-)
+- **All questions (zip):** [Download all questions](https://drive.google.com/uc?export=download&id=1pCMqYSfBpWYlCXaMUoIyJYQG-EToIfbJ)
 - **All official solutions (zip):** [Download all official solutions](https://drive.google.com/uc?export=download&id=1YinvLeoi7QaOzniKXuxNGJ-P7UgABWKV)
 
 ---

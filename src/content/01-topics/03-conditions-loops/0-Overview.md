@@ -1,8 +1,8 @@
 # 🧭 Topic: C++ Control Structures
 
 
-> [!info] Quick Overview
-> 
+> [!info] Quick Overview:
+> This lecture introduces **control structures** as the mechanisms that determine the flow of execution in a C++ program, starting from basic **selection (branching)** and extending to **iteration (loops)**. It explains how **operators**—arithmetic, comparison, logical, and an introductory look at bitwise—are used to build **boolean expressions**, how C++ evaluates truth (`true/false`, `0/non-zero`), and how **short-circuit logic** affects execution. The core focus is on **conditional statements** (`if`, `if-else`, nested `if`, the ternary operator, and `switch`), emphasizing correct syntax, execution flow, common pitfalls, and clean-code practices such as always using braces, readable formatting, and meaningful condition names. The lecture also covers **operator precedence** to prevent subtle bugs and highlights best practices like avoiding deep nesting and testing all branches. In the second part, it moves to **loops**, explaining why repetition is needed and covering `while`, `do-while`, and `for` loops, along with loop control statements (`break`, `continue`, `return`), nested loops, common loop patterns, execution order, debugging techniques, and clean-code guidelines to ensure loops are correct, readable, and terminate as intended.
 
 ---
 ## 📌 Covered in This Topic

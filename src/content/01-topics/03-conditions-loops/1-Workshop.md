@@ -14,18 +14,30 @@
 
 ## 📦 Download All Questions and Solutions
 
-- **All questions (zip):** [Download all questions]()
-- **All official solutions (zip):** [Download all official solutions]()
 
 ---
 ## 🧾 Official Questions & Solutions
+### Part 1: Conditions
 
-| Question # | Question (Download) | Official Solution (Download) | Additional Notes |
-| ---------- | ------------------- | ---------------------------- | ---------------- |
-| 01         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 02         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
-| 03         | [Download PDF]()    | [Download Solution (zip)]()  |                  |
+- **All questions (zip):** [Download all questions](https://drive.usercontent.google.com/u/0/uc?id=1r_MHwGapPg8xVcXUWafr2D7PjlyonWPS&export=download)
+- **All official solutions (zip):** [Download all official solutions](https://drive.usercontent.google.com/u/0/uc?id=17smC3CcUcUowTNRjyxAy2d5G-M5_sShN&export=download)
 
+| Question # | Question (Download)                                                                                              | Official Solution (Download)                                                                                                | Additional Notes |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 01         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=19Mulf_gVpPgYQ39EGTiIrmn7GD7Uc5A7&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=149n1Uw6nErMjjMudoafK-0qLClRaA-eA&export=download) |                  |
+| 02         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1v3KtBq0mThCBj-HplBDH3t-OairXo9wq&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1GTe8l_YLkZSdEK8gzeCniJTfgt-nfSRd&export=download) |                  |
+| 03         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1fXlAI0pLSEMSSgx1rOo_VnSTk9ws2eqx&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1NSQm8n3RY1UKEDgAACzi_hXZVTv7iQWs&export=download) |                  |
+| 04         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1AgXeFyE5f0vvR4GLKZz4uwIuqqux-wGr&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1cWgEXtAw02pv_xt5XOhCRAImUsvxDSuZ&export=download) |                  |
+### Part 2: Loops
+- **All questions (zip):** [Download all questions](https://drive.usercontent.google.com/u/0/uc?id=1yLNNd1VX9p4kaqs4vgXcFFlXyMLQugeZ&export=download)
+- **All official solutions (zip):** [Download all official solutions](https://drive.usercontent.google.com/u/0/uc?id=14mcNtmD258B2M-rbxtKRl7sxkeJubu7W&export=download)
+
+| Question # | Question (Download)                                                                                              | Official Solution (Download)                                                                                                | Additional Notes |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 01         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1U-ugL7Y6-1-KBvXBfddfpHdUQ3KNG9ls&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1pMfJ7Yng4_uvFfC3uNWu52G6xLPMhOga&export=download) |                  |
+| 02         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1SEdzcV-xmegbW9jvUBrJ12RmfXkk9gHW&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1U9-g48WqFyHTO8aIW51WsdaafD8vQwCh&export=download) |                  |
+| 03         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=191f5oXOEWXVGxSuhD8iLP7URYxseiXwH&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1QDwruOhrXvpBUc_srfyEL2sKCVHMPwFg&export=download) |                  |
+| 04         | [Download PDF](https://drive.usercontent.google.com/u/0/uc?id=1ouUX3C4M189a1m-IcCif260gtsedcOJZ&export=download) | [Download Solution (cpp)](https://drive.usercontent.google.com/u/0/uc?id=1lju_VvRzfhWMIg1MWkkvmiSI68iwcgcC&export=download) |                  |
 
 > [!note] Not available yet?  
 > Some solutions will be uploaded after the workshop or assignment deadline. Check back later or ask your TA.
