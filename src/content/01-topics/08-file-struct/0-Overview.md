@@ -109,8 +109,8 @@
 ---
 ## ⏩ Navigation
 
-- ⬅️ [Previous : Functions 2 - Recursion](../06-functions-2/0-Overview.md)
-- ➡️ [Next Topic: File & Struct](../08-file-struct/0-Overview.md)
+- ⬅️ [Previous : Pointers](../07-pointers/0-Overview.md)
+- ➡️ [Next Topic: Mini Project](../09-mini-project/0-Overview.md)
 
 
 ---
