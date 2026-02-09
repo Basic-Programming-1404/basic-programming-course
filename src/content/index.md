@@ -80,8 +80,9 @@ We’re documenting everything we do for three major reasons:
 | 6    | **Advanced Functions & Recursion**                                            | Deepen function usage with recursion, higher-level thinking about how functions call themselves, and problem-solving patterns that leverage recursion.                                    | [Overview](01-topics/06-functions-2/0-Overview.md)           | [Workshop](01-topics/06-functions-2/1-Workshop.md)           | [Assignment](01-topics/06-functions-2/2-Assignment.md)           |
 | 7    | **Pointers & Dynamic Memory**                                                 | Dive into pointers, dynamic memory allocation/deallocation (e.g., `new`, `delete`), pointer arithmetic, and how memory model impacts correct usage of arrays/strings.                     | [Overview](01-topics/07-pointers/0-Overview.md)              | -                                                            | [Assignment](01-topics/07-pointers/2-Assignment.md)              |
 | 8    | **File I/O, Structs & A Very Brief Introduction to Object-Oriented Concepts** | Work with file input/output streams, define and use `struct`s, and get a first glance at OOP mindset                                                                                      | [Overview](01-topics/08-file-struct/0-Overview.md)           | [Workshop](01-topics/08-file-struct/1-Workshop.md)           |                                                                  |
-| 9    | **Mini Project**                                                              | Integrate the learned topics into a hands-on project: design, implement, test a moderately sized application showcasing applied algorithms, data structures and modular code.             |                                                              | -                                                            | -                                                                |
-| 10   | **Final Project & Wrap-up**                                                   | Launch the final project with full guidelines: design documentation, coding standards, testing, and presentation. Wrap up with reflections and next steps in C++ or software development. |                                                              | -                                                            | -                                                                |
+| 9    | **Mini Project**                                                              | Integrate the learned topics into a hands-on project: design, implement, test a moderately sized application showcasing applied algorithms, data structures and modular code.             | [Overview](01-topics/08-file-struct/0-Overview.md)           | -                                                            | -                                                                |
+| 10   | **Project 101**                                                               | An introduction to terminal games: designing game loops, FPS and how to implement it in code, header files and some tips on clean code                                                    | [Overview](01-topics/10-project-overview/0-Overview.md)      | -                                                            |                                                                  |
+| 11   | **Final Project & Wrap-up**                                                   | Launch the final project with full guidelines: design documentation, coding standards, testing, and presentation. Wrap up with reflections and next steps in C++ or software development. | [Overview](01-topics/11-final-project/0-Overview.md)         | -                                                            | -                                                                |
 
 
 ---
@@ -140,7 +141,7 @@ You’re free to learn, adapt, and build upon our content — just credit the au
 
 ---
 
-> — *C++ SBU CS TA Team, 2025*
+> — *C++ SBU CS BP TA Team, 2026*
 
 
 
