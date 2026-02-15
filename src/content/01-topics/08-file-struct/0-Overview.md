@@ -1,7 +1,6 @@
 # 🧭 Topic: File & Struct
 
-> [!info] **Quick Overview :** 
-
+> [!info] **Quick Overview :** Structs and File I/O transform simple scripts into robust applications. Structs introduce the basics of Object-Oriented Programming by allowing you to bundle related data and functions into custom types. Meanwhile, File I/O enables persistent storage, allowing programs to save data, manage configurations, and interact with external systems using sequential or random access. Mastering these concepts is essential for managing complex data structures and ensuring information survives beyond a single program execution
 
 ## 📌 Covered in This Topic
 - **What is a `struct`?**
