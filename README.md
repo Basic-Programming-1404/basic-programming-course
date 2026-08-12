@@ -40,6 +40,7 @@ Our approach combines **theoretical coverage, active practice, and close mentors
    - Translate concepts into hands-on coding experiences.  
    - Encourage collaboration and experimentation.
 
+
 3. **Assignments**  
    - Weekly exercises that challenge students to apply what they’ve learned.  
    - Reviewed and discussed with mentors.
