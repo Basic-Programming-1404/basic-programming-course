@@ -1,4 +1,7 @@
-# C++ Basic Programming
+# C++ Basic Programming - Course Repository & Learning Resources
+
+[<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/5c33c944-0eea-4aa7-84a6-1a4c13257cb5" />](https://basic-programming-1404.github.io/basic-programming-course/)
+[Visit the Site](https://basic-programming-1404.github.io/basic-programming-course/)
 
 Welcome to the **C++ Basic Programming Course Repository** — a comprehensive, community-driven learning resource.
 
